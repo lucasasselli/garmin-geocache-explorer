@@ -1,0 +1,14 @@
+<strings>
+    <string id="AppName">Geocache Explorer</string>
+
+    <string id="menuMainSaved">Saved</string>
+    <string id="menuMainNearby">Nearby</string>
+    <string id="menuMainSearch">Search</string>
+    <string id="menuMainLists">Lists</string>
+    <string id="menuMainSettings">Settings</string>
+
+    <string id="menuCacheNavigate">Navigate</string>
+    <string id="menuCacheHint">Hint</string>
+    <string id="menuCacheSave">Save</string>
+    <string id="menuCacheDelete">Delete</string>
+</strings>
